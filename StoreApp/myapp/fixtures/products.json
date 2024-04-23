@@ -1,0 +1,30 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "Laptop",
+        "price": 999.99,
+        "description": "A powerful laptop"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "Smartphone",
+        "price": 799.99,
+        "description": "A latest model smartphone"
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "Tablet",
+        "price": 499.99,
+        "description": "A sleek and lightweight tablet"
+      }
+    }
+  ]
+  
